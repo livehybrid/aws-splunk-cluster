@@ -1,0 +1,18 @@
+certmgr/
+
+#Terraform junk
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+**/.terraform/
+.terraform
+
+terraform/layers/*/.terraform/
+terraform/layers/*/.terraform/*
+*.csr
+*.key
+scripts/certs/
+
+layers/new_monitoring/files/slack_notify.zip
+
+**.DS_STORE

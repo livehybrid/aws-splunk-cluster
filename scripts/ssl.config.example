@@ -1,0 +1,10 @@
+prompt = no
+distinguished_name = req_distinguished_name
+#req_extensions = v3_req
+[ req_distinguished_name ]
+C                      = GB
+ST                     = West Yorkshire
+L                      = Leeds
+O                      = Your Company
+OU                     = Splunk
+emailAddress           = splunk@yourcompany.com

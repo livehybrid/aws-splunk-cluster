@@ -1,0 +1,6 @@
+1) Different Instance profiles for different Splunk roles (e.g. Fwd, Idx, SH)
+
+
+Create lookup file from AccountNumber to Name/Programme/Owner for Splunk
+
+README to contain all the secrets and config needed for new environment
